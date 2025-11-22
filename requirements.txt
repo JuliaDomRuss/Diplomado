@@ -3,4 +3,5 @@ matplotlib
 numpy
 pandas
 plotly.express
-LinearRegression
+scikit-learn
+statsmodels
